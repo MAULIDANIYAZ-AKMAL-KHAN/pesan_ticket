@@ -39,5 +39,5 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer lokal:
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/Ilham6648/Pesan_ticket.git](https://github.com/Ilham6648/Pesan_ticket.git)
+git clone [https://github.com/MAULIDANIYAZ-AKMAL-KHAN/pesan_ticket.git)
 cd Pesan_ticket
